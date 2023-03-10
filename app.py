@@ -16,7 +16,7 @@ body {
   padding: 10%;
 }
 img {
-  width: 90%;
+  width: 75%;
   transform: rotateZ(23deg);
 }
 """
