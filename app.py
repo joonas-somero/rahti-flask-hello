@@ -17,6 +17,7 @@ body {
 }
 img {
   width: 90%;
+  transform: rotateX(-3deg);
 }
 """
 
